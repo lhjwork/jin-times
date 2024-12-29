@@ -7,7 +7,6 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      루트레이아웃
       <body>{children}</body>
     </html>
   );
