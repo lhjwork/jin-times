@@ -1,6 +1,4 @@
-import React from "react";
-
-const Login = () => {
+export default function Login() {
   return (
     <div>
       <div className="shadow-md flex justify-center p-4">jin Times</div>
@@ -31,6 +29,4 @@ const Login = () => {
       </div>
     </div>
   );
-};
-
-export default Login;
+}
